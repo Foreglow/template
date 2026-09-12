@@ -4,8 +4,8 @@ Use this repository as a template to create a new Foreglow theme for your favori
 
 ## Variants
 
-- **Foreglow** — Dark theme (twilight night sky)
-- **Afterglow** — Light theme (twilight dawn sky)
+- **Foreglow** — Dark theme (dawn — the glow *before* first light)
+- **Afterglow** — Light theme (dusk — the glow *after* sunset)
 
 ## Getting Started
 
