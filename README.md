@@ -1,4 +1,6 @@
-# Foreglow Theme Template
+<p align="center"><img width="320" alt="foreglow-logo" src="https://github.com/user-attachments/assets/5b0f629b-9800-4c97-b23b-fa3f22681ea4" /></p>
+
+<h3 align="center">Foreglow Theme Template</h3>
 
 Use this repository as a template to create a new Foreglow theme for your favorite application.
 
